@@ -58,12 +58,14 @@ All branches showed consistent patterns:
 - Young Old (≤60): 1,450 customers | 1,066,939.71 in sales
 - Old Aged (60+): 1,413 customers | 1,035,473.56 in sales
 - Young (≤18): 671 customers | 478,594.16 in sales
-![Alt text](graphs\age groups.png)
+
+![Alt text](graphs\age%20groups.png)
 
 **Gender Distribution:**
 - Male: 3,134 customers | 2,316,115.01 in sales
 - Female: 3,008 customers | 2,193,014.60 in sales
-![Alt text](graphs\gender groups.png)
+
+![Alt text](graphs\gender%20groups.png)
 
 ## 🔍 Analysis & Insights
 
