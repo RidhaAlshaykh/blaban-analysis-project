@@ -29,7 +29,7 @@ GROUP BY
     EXTRACT(MONTH FROM sales.date_time)
 
 ORDER BY
-    EXTRACT(MONTH FROM sales.date_time)
+    EXTRACT(MONTH FROM sales.date_time);
 
 
 ------------------------------------------------

@@ -12,6 +12,8 @@ FROM sales
 
 GROUP BY EXTRACT(MONTH FROM sales.date_time)
 
+ORDER BY 
+    EXTRACT(MONTH FROM sales.date_time)
 
 
 
