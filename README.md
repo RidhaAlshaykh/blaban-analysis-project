@@ -32,7 +32,6 @@ This data analysis project examines sales performance for B.Laban, a food and be
 | March    | 1,467,898.66  |
 | April    | 602,674.40    |
 
-![Alt text](https://github.com/RidhaAlshaykh/blaban-analysis-project/blob/main/graphs/salles_per_month.png)
 
 The data reveals a dramatic 59% decrease in sales from March to April, with every branch experiencing approximately 50-60% decline in revenue.
 
@@ -59,13 +58,9 @@ All branches showed consistent patterns:
 - Old Aged (60+): 1,413 customers | 1,035,473.56 in sales
 - Young (≤18): 671 customers | 478,594.16 in sales
 
-![Alt text]([graphs\agegroups.png](https://github.com/RidhaAlshaykh/blaban-analysis-project/blob/main/graphs/age%20groups.png))
-
 **Gender Distribution:**
 - Male: 3,134 customers | 2,316,115.01 in sales
 - Female: 3,008 customers | 2,193,014.60 in sales
-
-![Alt text]([graphs\gendergroups.png](https://github.com/RidhaAlshaykh/blaban-analysis-project/blob/main/graphs/gender%20groups.png))
 
 ## 🔍 Analysis & Insights
 
