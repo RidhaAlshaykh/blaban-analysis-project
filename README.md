@@ -59,7 +59,7 @@ All branches showed consistent patterns:
 - Old Aged (60+): 1,413 customers | 1,035,473.56 in sales
 - Young (≤18): 671 customers | 478,594.16 in sales
 
-![Alt text](graphs\agegroups.png)
+![Alt text]([graphs\agegroups.png](https://github.com/RidhaAlshaykh/blaban-analysis-project/blob/main/graphs/age%20groups.png))
 
 **Gender Distribution:**
 - Male: 3,134 customers | 2,316,115.01 in sales
