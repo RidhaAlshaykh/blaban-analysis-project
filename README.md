@@ -32,7 +32,7 @@ This data analysis project examines sales performance for B.Laban, a food and be
 | March    | 1,467,898.66  |
 | April    | 602,674.40    |
 
-![Alt text](graphs\salles_per_month.png)
+![Alt text](https://github.com/RidhaAlshaykh/blaban-analysis-project/blob/main/graphs/salles_per_month.png)
 
 The data reveals a dramatic 59% decrease in sales from March to April, with every branch experiencing approximately 50-60% decline in revenue.
 
