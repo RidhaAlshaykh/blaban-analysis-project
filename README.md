@@ -65,7 +65,7 @@ All branches showed consistent patterns:
 - Male: 3,134 customers | 2,316,115.01 in sales
 - Female: 3,008 customers | 2,193,014.60 in sales
 
-![Alt text](graphs\gendergroups.png)
+![Alt text]([graphs\gendergroups.png](https://github.com/RidhaAlshaykh/blaban-analysis-project/blob/main/graphs/gender%20groups.png))
 
 ## 🔍 Analysis & Insights
 
