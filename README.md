@@ -77,7 +77,7 @@ The customer base is nearly evenly split between genders, with middle-aged custo
 
 ## 🛠️ Tools Used
 
-- **SQL:** Data extraction and aggregation
+- **PostgreSQL:** Data extraction and aggregation
 - **Excel:** Dashboard creation and visualization
 - **CSV:** Raw data storage
 
